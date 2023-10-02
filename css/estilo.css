@@ -1,0 +1,33 @@
+#servicos{
+         height: 700px;
+         background-color: yellowgreen;
+         border: darkred 5px double;
+		}
+#parceiros{
+	    height: 250px;
+	    background-color: white;
+	    border: solid darkorange 5px;
+}
+footer{
+	height: 200px;
+	background:#222f3e;
+
+  /*border-style: double;
+	border-width:10px ;
+	border-color: #f368e0;*/
+	border: 10px double #f368e0;
+}
+
+/*nav,div,section,footer{
+	border: solid 5px red !important;
+}*/
+padraoTexto
+.fundoPadrao{  /* criação de uma classe  */
+	border: solid 5px orange !important;
+}
+.padraoTexto{
+	font-family: arial;
+	font-size: 20px;
+	font-weight:bolder;
+	font-style: italic;
+}
